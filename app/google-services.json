@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "520213670395",
+    "firebase_url": "https://instant-e3c79.firebaseio.com",
+    "project_id": "instant-e3c79",
+    "storage_bucket": "instant-e3c79.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:520213670395:android:87c2dcb77cab5f9ece035e",
+        "android_client_info": {
+          "package_name": "com.example.instant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "520213670395-ou9ln7lb4mfdletlmmutkagkjj9m1gn4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.instant",
+            "certificate_hash": "b4e3935b37df30f36ebf1ee0ac5272862ea71c7f"
+          }
+        },
+        {
+          "client_id": "520213670395-j20rrnvhrvb0nl56c2kaf2ccq2hdtlcd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWKbXz98ZsRpQ3N0_D2dH9Ri2S37u3JMY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "520213670395-j20rrnvhrvb0nl56c2kaf2ccq2hdtlcd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
